@@ -1,3 +1,10 @@
+![InRebutechnologies Logo](https://avatars.githubusercontent.com/u/140599854?v=4)
+
+# inRebus srl (Gruppo FOS)
+#Servizi IT e consulenza IT Torino, TO
+
+# [RE]SHAPING YOUR DIGITAL WORLD | SPICY DIGITAL LEARNING OUTSIDE THE BOX
+
 ## :information_source: About us
 inRebus Technologies nasce a Torino nel 2003 come software house e consulting company: l’azienda prosegue un cammino nel settore informatico che risale ai primi anni '90 e che tutt’ora la vede impegnata in rilevanti attività di sviluppo software e di prodotti di assistenza remota (SKITE), nonché nella fornitura di personale qualificato in consulenza presso i nostri clienti.
  
@@ -12,6 +19,6 @@ Nel dicembre 2020 inRebus Technologies è entrata a far parte di FOS S.p.A., PMI
 
 
 ## :technologist: Become a part of the team
-[Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-php-torino_152316.aspx)
-[Devops Engineer](https://www.iprogrammatori.it/lavoro/ricerca_devops-engineer-roma_152366.aspx)
+- [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-php-torino_152316.aspx)
+- [Devops Engineer](https://www.iprogrammatori.it/lavoro/ricerca_devops-engineer-roma_152366.aspx)
 
